@@ -1,0 +1,14 @@
+C:\Users\hardw\Source\Repos\GorilaXamBurger\GorilaXamBurger\GorilaXamBurger\bin\Debug\netstandard2.0\GorilaXamBurger.deps.json
+C:\Users\hardw\Source\Repos\GorilaXamBurger\GorilaXamBurger\GorilaXamBurger\bin\Debug\netstandard2.0\GorilaXamBurger.dll
+C:\Users\hardw\Source\Repos\GorilaXamBurger\GorilaXamBurger\GorilaXamBurger\bin\Debug\netstandard2.0\ref\GorilaXamBurger.dll
+C:\Users\hardw\Source\Repos\GorilaXamBurger\GorilaXamBurger\GorilaXamBurger\bin\Debug\netstandard2.0\GorilaXamBurger.pdb
+C:\Users\hardw\Source\Repos\GorilaXamBurger\GorilaXamBurger\GorilaXamBurger\obj\Debug\netstandard2.0\GorilaXamBurger.csprojAssemblyReference.cache
+C:\Users\hardw\Source\Repos\GorilaXamBurger\GorilaXamBurger\GorilaXamBurger\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\hardw\Source\Repos\GorilaXamBurger\GorilaXamBurger\GorilaXamBurger\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\hardw\Source\Repos\GorilaXamBurger\GorilaXamBurger\GorilaXamBurger\obj\Debug\netstandard2.0\GorilaXamBurger.AssemblyInfoInputs.cache
+C:\Users\hardw\Source\Repos\GorilaXamBurger\GorilaXamBurger\GorilaXamBurger\obj\Debug\netstandard2.0\GorilaXamBurger.AssemblyInfo.cs
+C:\Users\hardw\Source\Repos\GorilaXamBurger\GorilaXamBurger\GorilaXamBurger\obj\Debug\netstandard2.0\GorilaXamBurger.csproj.CoreCompileInputs.cache
+C:\Users\hardw\Source\Repos\GorilaXamBurger\GorilaXamBurger\GorilaXamBurger\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\hardw\Source\Repos\GorilaXamBurger\GorilaXamBurger\GorilaXamBurger\obj\Debug\netstandard2.0\GorilaXamBurger.dll
+C:\Users\hardw\Source\Repos\GorilaXamBurger\GorilaXamBurger\GorilaXamBurger\obj\Debug\netstandard2.0\ref\GorilaXamBurger.dll
+C:\Users\hardw\Source\Repos\GorilaXamBurger\GorilaXamBurger\GorilaXamBurger\obj\Debug\netstandard2.0\GorilaXamBurger.pdb

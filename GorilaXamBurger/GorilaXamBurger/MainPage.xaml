@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="GorilaXamBurger.MainPage">
+
+    <ContentPage.Content>
+        <StackLayout>
+            <StackLayout Orientation="Horizontal">
+                <Button BackgroundColor="#689bd2" Grid.Row="0" Grid.Column="0" Text="Button 0,0" TextColor="White" WidthRequest="200" HeightRequest="110" />
+                <Button BackgroundColor="#b5d7f3" Grid.Row="0" Grid.Column="1" Text="Button 0,1" TextColor="White" WidthRequest="200" HeightRequest="110" />
+            </StackLayout>
+            <StackLayout Orientation="Horizontal">
+                <Button BackgroundColor="#b5d7f3" Grid.Row="1" Grid.Column="0" Text="Button 1,0" TextColor="White" WidthRequest="200" HeightRequest="210" />
+                <Button BackgroundColor="#689bd2" Grid.Row="1" Grid.Column="1" Text="Button 1,1" TextColor="White" WidthRequest="200" HeightRequest="210" />
+            </StackLayout>
+            <StackLayout Orientation="Horizontal">
+                <Button BackgroundColor="#a7dcfb" Grid.Row="1" Grid.Column="0" Text="Button 1"  TextColor="White" WidthRequest="405" HeightRequest="310" />
+            </StackLayout>
+        </StackLayout>
+    </ContentPage.Content>
+
+</ContentPage>
