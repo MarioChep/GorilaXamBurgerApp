@@ -36,6 +36,7 @@
             <Button BackgroundColor="#b5d7f3" Grid.Row="0" Grid.Column="1" />
             <Button BackgroundColor="#b5d7f3" Grid.Row="1" Grid.Column="0" />
             <Button BackgroundColor="#689bd2" Grid.Row="1" Grid.Column="1" />
+            <Button BackgroundColor="#689bd2" Grid.Row="2" Grid.Column="0" Grid.ColumnSpan="2"/>
         </Grid>
         
         
