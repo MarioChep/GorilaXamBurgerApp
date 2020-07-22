@@ -1,16 +1,22 @@
 ﻿using System;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
+using GorilaXamBurger;
+using GorilaXamBurger.Views;
 
 namespace GorilaXamBurger
 {
     public partial class App : Application
     {
+        public static INavigation GlobalNavigation { get; private set; }
         public App()
         {
             InitializeComponent();
 
-            MainPage = new Page2();
+            var rootPage = new NavigationPage(new Home());
+            GlobalNavigation = rootPage.Navigation;
+            MainPage = rootPage;
+
         }
 
         protected override void OnStart()

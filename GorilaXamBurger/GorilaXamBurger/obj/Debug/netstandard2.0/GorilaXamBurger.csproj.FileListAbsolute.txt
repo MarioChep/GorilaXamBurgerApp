@@ -16,11 +16,12 @@ C:\Users\hardw\Source\Repos\GorilaXamBurgerApp\GorilaXamBurger\GorilaXamBurger\b
 C:\Users\hardw\Source\Repos\GorilaXamBurgerApp\GorilaXamBurger\GorilaXamBurger\bin\Debug\netstandard2.0\GorilaXamBurger.dll
 C:\Users\hardw\Source\Repos\GorilaXamBurgerApp\GorilaXamBurger\GorilaXamBurger\bin\Debug\netstandard2.0\ref\GorilaXamBurger.dll
 C:\Users\hardw\Source\Repos\GorilaXamBurgerApp\GorilaXamBurger\GorilaXamBurger\bin\Debug\netstandard2.0\GorilaXamBurger.pdb
-C:\Users\hardw\Source\Repos\GorilaXamBurgerApp\GorilaXamBurger\GorilaXamBurger\obj\Debug\netstandard2.0\GorilaXamBurger.csprojAssemblyReference.cache
 C:\Users\hardw\Source\Repos\GorilaXamBurgerApp\GorilaXamBurger\GorilaXamBurger\obj\Debug\netstandard2.0\App.xaml.g.cs
 C:\Users\hardw\Source\Repos\GorilaXamBurgerApp\GorilaXamBurger\GorilaXamBurger\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
-C:\Users\hardw\Source\Repos\GorilaXamBurgerApp\GorilaXamBurger\GorilaXamBurger\obj\Debug\netstandard2.0\Page1.xaml.g.cs
-C:\Users\hardw\Source\Repos\GorilaXamBurgerApp\GorilaXamBurger\GorilaXamBurger\obj\Debug\netstandard2.0\Page2.xaml.g.cs
+C:\Users\hardw\Source\Repos\GorilaXamBurgerApp\GorilaXamBurger\GorilaXamBurger\obj\Debug\netstandard2.0\Views\Home.xaml.g.cs
+C:\Users\hardw\Source\Repos\GorilaXamBurgerApp\GorilaXamBurger\GorilaXamBurger\obj\Debug\netstandard2.0\Views\PageFormularioProducto.xaml.g.cs
+C:\Users\hardw\Source\Repos\GorilaXamBurgerApp\GorilaXamBurger\GorilaXamBurger\obj\Debug\netstandard2.0\Views\PageListaProductos.xaml.g.cs
+C:\Users\hardw\Source\Repos\GorilaXamBurgerApp\GorilaXamBurger\GorilaXamBurger\obj\Debug\netstandard2.0\Views\PageMenu.xaml.g.cs
 C:\Users\hardw\Source\Repos\GorilaXamBurgerApp\GorilaXamBurger\GorilaXamBurger\obj\Debug\netstandard2.0\GorilaXamBurger.AssemblyInfoInputs.cache
 C:\Users\hardw\Source\Repos\GorilaXamBurgerApp\GorilaXamBurger\GorilaXamBurger\obj\Debug\netstandard2.0\GorilaXamBurger.AssemblyInfo.cs
 C:\Users\hardw\Source\Repos\GorilaXamBurgerApp\GorilaXamBurger\GorilaXamBurger\obj\Debug\netstandard2.0\GorilaXamBurger.csproj.CoreCompileInputs.cache
@@ -28,3 +29,4 @@ C:\Users\hardw\Source\Repos\GorilaXamBurgerApp\GorilaXamBurger\GorilaXamBurger\o
 C:\Users\hardw\Source\Repos\GorilaXamBurgerApp\GorilaXamBurger\GorilaXamBurger\obj\Debug\netstandard2.0\GorilaXamBurger.dll
 C:\Users\hardw\Source\Repos\GorilaXamBurgerApp\GorilaXamBurger\GorilaXamBurger\obj\Debug\netstandard2.0\ref\GorilaXamBurger.dll
 C:\Users\hardw\Source\Repos\GorilaXamBurgerApp\GorilaXamBurger\GorilaXamBurger\obj\Debug\netstandard2.0\GorilaXamBurger.pdb
+C:\Users\hardw\Source\Repos\GorilaXamBurgerApp\GorilaXamBurger\GorilaXamBurger\obj\Debug\netstandard2.0\GorilaXamBurger.csprojAssemblyReference.cache

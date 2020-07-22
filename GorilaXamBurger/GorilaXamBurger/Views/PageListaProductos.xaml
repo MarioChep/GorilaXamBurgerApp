@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="GorilaXamBurger.Views.PageListaProductos">
+    <ContentPage.Content>
+        <Grid Padding="8">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="Auto"/>
+            </Grid.ColumnDefinitions>
+
+            <Label Text="Lista de Producto" FontSize="30" FontAttributes="Bold" Grid.Row="0" Grid.ColumnSpan="3"  HorizontalOptions="FillAndExpand" VerticalOptions="Center"/>
+            <Image Source="bbq.png"   Grid.Row="1" Grid.Column="0" Margin="10" WidthRequest="80" HeightRequest="80" />
+            <Label Text="Titulo"      Grid.Row="1" Grid.Column="1" VerticalOptions="Center"/>
+            <Label Text="Descripcion" Grid.Row="2" Grid.Column="1" VerticalOptions="Center"/>
+            <Button x:Name="MenuReturnButtonClicked" 
+                    Text="Volver" 
+                    Clicked="MenuReturnPageButtonClicked" 
+                    VerticalOptions="CenterAndExpand" 
+                    HeightRequest="40" Grid.Row="3" Grid.ColumnSpan="3"/>
+
+
+        </Grid>
+
+    </ContentPage.Content>
+</ContentPage>

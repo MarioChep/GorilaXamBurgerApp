@@ -539,6 +539,7 @@ C:\Users\hardw\Source\Repos\GorilaXamBurgerApp\GorilaXamBurger\GorilaXamBurger.A
 C:\Users\hardw\Source\Repos\GorilaXamBurgerApp\GorilaXamBurger\GorilaXamBurger.Android\obj\Debug\90\res\mipmap-xxhdpi\launcher_foreground.png
 C:\Users\hardw\Source\Repos\GorilaXamBurgerApp\GorilaXamBurger\GorilaXamBurger.Android\obj\Debug\90\res\mipmap-xxxhdpi\icon.png
 C:\Users\hardw\Source\Repos\GorilaXamBurgerApp\GorilaXamBurger\GorilaXamBurger.Android\obj\Debug\90\res\mipmap-xxxhdpi\launcher_foreground.png
+C:\Users\hardw\Source\Repos\GorilaXamBurgerApp\GorilaXamBurger\GorilaXamBurger.Android\obj\Debug\90\res\drawable\logogorilaburger.png
 C:\Users\hardw\Source\Repos\GorilaXamBurgerApp\GorilaXamBurger\GorilaXamBurger.Android\obj\Debug\90\res\drawable\bbq.png
 C:\Users\hardw\Source\Repos\GorilaXamBurgerApp\GorilaXamBurger\GorilaXamBurger.Android\obj\Debug\90\uploadflags.txt
 C:\Users\hardw\Source\Repos\GorilaXamBurgerApp\GorilaXamBurger\GorilaXamBurger.Android\obj\Debug\90\resolvedassemblies.hash
