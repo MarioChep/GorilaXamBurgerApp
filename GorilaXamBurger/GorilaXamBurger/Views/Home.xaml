@@ -32,8 +32,8 @@
                    FontSize="30" FontAttributes="Bold"
                    VerticalOptions="CenterAndExpand" 
                    HorizontalOptions="CenterAndExpand" 
-                   TextColor="CadetBlue"
-                   Grid.Row="0"
+                   TextColor="DarkOrange"
+                   Grid.Row="9"
                    Grid.ColumnSpan="2"/>
                 <Button x:Name="button" 
                     Text="Siguiente" 
