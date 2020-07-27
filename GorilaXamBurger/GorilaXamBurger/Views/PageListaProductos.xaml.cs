@@ -15,6 +15,7 @@ namespace GorilaXamBurger.Views
         public PageListaProductos()
         {
             InitializeComponent();
+            BindingContext = new ViewModels.ProductoViewModels();
         }
 
         //MenuReturnPageButtonClicked
